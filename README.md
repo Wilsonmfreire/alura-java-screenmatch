@@ -1,6 +1,6 @@
 # Java: Criando primeira aplicação!
 
-Projeto desenvolvido curso formação Java da Alura
+Projeto desenvolvido: formação Java da Alura
 
 ## 🔨 Objetivos do projeto
 
